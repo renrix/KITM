@@ -1,4 +1,4 @@
-#KITM Python kursas
+# KITM Python kursas
 
 ## Bendrai
 Python yra pakankamai sena kalba:
