@@ -20,7 +20,7 @@ https://www.python.org/dev/peps/
 Kalbos stiliaus taisyklės aprašytos PEP-8 - https://www.python.org/dev/peps/pep-0008/
 
 
-##Mokymosi medžiaga
+## Mokymosi medžiaga
 
 ### Video paskaitos
 
@@ -36,8 +36,8 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-int
      useful goals. The class will use the Python™ programming language.
 
 
-###Online kursai:
-####Edx.org
+### Online kursai:
+#### Edx.org
 
 <b><i>Microsoft</i></b>
 
@@ -97,14 +97,14 @@ C50 kuras - Computer science, labai platus, naudojama ne tik Python bet ir kitos
 https://www.edx.org/course/cs50s-apr-computer-science-principles-harvardx-cs50-ap
 
 
-####SoloLearn 
+#### SoloLearn 
 
 Puikiai tinka susipažinimui su Python sintakse bei pagrindiniai duomenų tipais.
 
 https://www.sololearn.com/Play/Python/
 
 
-####CodeCombat
+#### CodeCombat
 Mokymasis bežaidžiant
 
 www.codecombat.com
