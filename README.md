@@ -117,6 +117,10 @@ www.codecombat.com
 * https://techblog.bozho.net/gdpr-practical-guide-developers/ - GDPR - A Practical Guide For Developers
 * https://touk.pl/blog/2012/09/16/test-driven-traps-part-1/ - kas yra "testų pragaras"
 * https://semver.org - versijavimo konvencijos
+* https://www.youtube.com/watch?v=wf-BqAjZb8M - Raymond Hettinger - Beyond PEP 8
+* https://more-itertools.readthedocs.io/en/latest/ - naudingų funkcijų biblioteka, kad neišradinėti dviračio
+* https://www.youtube.com/watch?v=5nXmq1PsoJ0 - <b>The Fun of Reinvention - David Beazley - Pycon Israel 2017</b>
+
 
 Why you should never, ever, ever use MongoDB
 
@@ -124,6 +128,3 @@ Why you should never, ever, ever use MongoDB
 * https://blog.scrapinghub.com/2013/05/13/mongo-bad-for-scraped-data/
 * http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/comment-page-1/
 
-* https://www.youtube.com/watch?v=wf-BqAjZb8M - Raymond Hettinger - Beyond PEP 8
-* https://more-itertools.readthedocs.io/en/latest/ - naudingų funkcijų biblioteka, kad neišradinėti dviračio
-* https://www.youtube.com/watch?v=5nXmq1PsoJ0 - <b>The Fun of Reinvention - David Beazley - Pycon Israel 2017</b>
