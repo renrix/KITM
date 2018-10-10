@@ -1,0 +1,3 @@
+vardas=raw_input('Iveskite savo varda\n')
+amzius=raw_input('iveskite savo amziu\n')
+print("\nsveiki "+ vardas +" jusu amzius "+ amzius)
