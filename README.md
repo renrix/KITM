@@ -113,6 +113,7 @@ www.codecombat.com
 
 ## Naudingos nuorodos (nebūtinai Python)
 
+* https://github.com/uhub/awesome-python - naudingų python modulių rinkinys
 * https://docs.quantifiedcode.com/python-anti-patterns/ Python anti-patterns
 * https://techblog.bozho.net/gdpr-practical-guide-developers/ - GDPR - A Practical Guide For Developers
 * https://touk.pl/blog/2012/09/16/test-driven-traps-part-1/ - kas yra "testų pragaras"
