@@ -87,7 +87,7 @@ def pamėginti_konvertuoti(duomenys,tipas,pranešimas):
 duomenys = input("Įrašykite ką norite:\n")
 pavyko = pamėginti_konvertuoti(duomenys,int,"Tai sveikas skaičius")
 if not pavyko:
-    pamėginti_konvertuoti(duomenys,float,"Tai realus skaičius")
+    pavyko = pamėginti_konvertuoti(duomenys,float,"Tai realus skaičius")
 
 if not pavyko:
     print("Įvestas ne skaičius.")
