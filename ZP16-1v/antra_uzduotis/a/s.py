@@ -4,6 +4,17 @@ import random
 from operator import itemgetter
 itemtable = {}
 pirkejai = {}
+purchasebuffer = {}
+
+translationtable = {
+'obuoliai':'obuolius',
+'kriauses':'kriauses',
+'bulves':'bulves', 
+'pomidorai':'pomidorus',
+"mandarinai":'mandarinus',
+"vysnios":'vysnias',
+'apelsinai':'apelsinus'
+}
 
 with open("povilas_pirkejai.json", 'r') as fout:
 	tmp = fout.read()
@@ -30,4 +41,8 @@ for pirkejas in pirkejai:
 					continue
 				preke['kiekis'] -= kiek
 				pirkejai[pirkejas][prekes] -= kiek
-				print(pirkejas + " nusipirko " + str(kiek) + " " + prekes + " is " + preke['p'] + " po " + str(preke['kaina']))
+				purchasebuffer[preke['p'] + prekes] = (preke['p'] + " nusipirko " + str(kiek) + " " + translationtable[prekes] + " po " + str(preke['kaina']))
+	print(pirkejas + ":")
+	for tmp in purchasebuffer:
+		print(purchasebuffer[tmp])
+	purchasebuffer = {}
