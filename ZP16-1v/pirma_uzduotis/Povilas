@@ -1,0 +1,3 @@
+tmp1 = input("vardas")
+tmp2 = input("amzius")
+print("sveikas, tu esi " + tmp1 + " ir tau yra " + tmp2 + " metu")
