@@ -1,0 +1,182 @@
+{
+  "parduotuve_8": {
+    "mandarinai": {
+      "kiekis": 4, 
+      "kaina": 2.75
+    }, 
+    "kriauses": {
+      "kiekis": 4, 
+      "kaina": 1.94
+    }, 
+    "pomidorai": {
+      "kiekis": 4, 
+      "kaina": 2.4
+    }, 
+    "bulves": {
+      "kiekis": 5, 
+      "kaina": 2.6
+    }
+  }, 
+  "parduotuve_9": {
+    "mandarinai": {
+      "kiekis": 4, 
+      "kaina": 2.25
+    }, 
+    "apelsinai": {
+      "kiekis": 5, 
+      "kaina": 1.63
+    }, 
+    "obuoliai": {
+      "kiekis": 3, 
+      "kaina": 1.5
+    }, 
+    "pomidorai": {
+      "kiekis": 4, 
+      "kaina": 1.35
+    }
+  }, 
+  "parduotuve_1": {
+    "mandarinai": {
+      "kiekis": 4, 
+      "kaina": 2.09
+    }, 
+    "pomidorai": {
+      "kiekis": 3, 
+      "kaina": 2.24
+    }, 
+    "obuoliai": {
+      "kiekis": 5, 
+      "kaina": 1.78
+    }, 
+    "bulves": {
+      "kiekis": 5, 
+      "kaina": 1.83
+    }
+  }, 
+  "parduotuve_2": {
+    "mandarinai": {
+      "kiekis": 4, 
+      "kaina": 1.18
+    }, 
+    "vysnios": {
+      "kiekis": 5, 
+      "kaina": 1.66
+    }, 
+    "pomidorai": {
+      "kiekis": 5, 
+      "kaina": 2.04
+    }, 
+    "bulves": {
+      "kiekis": 5, 
+      "kaina": 2.31
+    }
+  }, 
+  "parduotuve_3": {
+    "vysnios": {
+      "kiekis": 5, 
+      "kaina": 2.43
+    }, 
+    "kriauses": {
+      "kiekis": 3, 
+      "kaina": 1.21
+    }, 
+    "apelsinai": {
+      "kiekis": 3, 
+      "kaina": 2.93
+    }, 
+    "bulves": {
+      "kiekis": 5, 
+      "kaina": 1.97
+    }
+  }, 
+  "parduotuve_4": {
+    "mandarinai": {
+      "kiekis": 4, 
+      "kaina": 1.3
+    }, 
+    "apelsinai": {
+      "kiekis": 3, 
+      "kaina": 2.98
+    }, 
+    "obuoliai": {
+      "kiekis": 5, 
+      "kaina": 2.97
+    }, 
+    "bulves": {
+      "kiekis": 5, 
+      "kaina": 1.31
+    }
+  }, 
+  "parduotuve_5": {
+    "mandarinai": {
+      "kiekis": 5, 
+      "kaina": 2.98
+    }, 
+    "kriauses": {
+      "kiekis": 4, 
+      "kaina": 1.68
+    }, 
+    "pomidorai": {
+      "kiekis": 4, 
+      "kaina": 2.01
+    }, 
+    "bulves": {
+      "kiekis": 3, 
+      "kaina": 1.09
+    }
+  }, 
+  "parduotuve_6": {
+    "mandarinai": {
+      "kiekis": 3, 
+      "kaina": 1.02
+    }, 
+    "kriauses": {
+      "kiekis": 3, 
+      "kaina": 2.36
+    }, 
+    "apelsinai": {
+      "kiekis": 4, 
+      "kaina": 1.32
+    }, 
+    "pomidorai": {
+      "kiekis": 3, 
+      "kaina": 2.15
+    }
+  }, 
+  "parduotuve_7": {
+    "kriauses": {
+      "kiekis": 4, 
+      "kaina": 1.39
+    }, 
+    "bulves": {
+      "kiekis": 3, 
+      "kaina": 1.65
+    }, 
+    "obuoliai": {
+      "kiekis": 4, 
+      "kaina": 1.95
+    }, 
+    "pomidorai": {
+      "kiekis": 3, 
+      "kaina": 2.64
+    }
+  }, 
+  "parduotuve_10": {
+    "vysnios": {
+      "kiekis": 5, 
+      "kaina": 1.24
+    }, 
+    "apelsinai": {
+      "kiekis": 4, 
+      "kaina": 2.45
+    }, 
+    "obuoliai": {
+      "kiekis": 5, 
+      "kaina": 1.63
+    }, 
+    "pomidorai": {
+      "kiekis": 4, 
+      "kaina": 1.69
+    }
+  }
+}
