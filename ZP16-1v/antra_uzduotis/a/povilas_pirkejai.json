@@ -1,0 +1,17 @@
+{
+  "pirkejas_2": {
+    "vysnios": 10, 
+    "apelsinai": 1, 
+    "bulves": 3
+  }, 
+  "pirkejas_3": {
+    "mandarinai": 4, 
+    "kriauses": 7, 
+    "obuoliai": 6
+  }, 
+  "pirkejas_1": {
+    "apelsinai": 6, 
+    "kriauses": 5, 
+    "pomidorai": 2
+  }
+}

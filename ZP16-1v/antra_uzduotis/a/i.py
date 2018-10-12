@@ -4,7 +4,7 @@ import random
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-f", help="Inventoriaus failo pavadinimas", required=True)
-args = parser.parse_args("-f edvardas".split())
+args = parser.parse_args()
 
 prekes = ['obuoliai', 'kriauses', 'bulves', 'pomidorai', "mandarinai", "vysnios", 'apelsinai']
 inventoriai = {}
