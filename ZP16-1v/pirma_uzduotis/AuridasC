@@ -1,0 +1,7 @@
+name = input("įveskite savo vardą: ")
+age = input ("Įveskite savo amžių: ")
+if(age.isdigit()):
+    print("Vartotojo vardas yra "+name+" o amžius "+age)
+else:
+    print("Čia ne skaičius...")
+
