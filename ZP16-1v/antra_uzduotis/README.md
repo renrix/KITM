@@ -6,9 +6,9 @@ Bus sukurti du failai, vardas_pavarde_inventorius.json ir vardas_pavarde_pirkėj
 
 Užduotis:
 
-1) Nuskaityti JSON failus ir pasiversti jį į python dictionary naudojant json.loads(fstream)
+1) Nuskaityti JSON failus ir pasiversti jį į python dictionary naudojant json.loads(str)
 2) Pradedant nuo pirmo pirkėjo, rasti kurias parduotuves jam reikėtų aplankyti, kad supirkit norimus produktus
-mažiausia kaina. 
+mažiausia kaina. Jeigu tos prekės nėra, nieko nerašoma. Jeigu tik trūksta kiekio, rašoma kiek nusipirko.
 
         >python vardas_pavarde.py
         pirkėjas_1:
