@@ -1,0 +1,5 @@
+name = input("Iveskite varda: ")
+print("Tavo vardas yra: " + name)
+
+age = input("Iveskite amziu: ")
+print("Tavo amzius yra: " + age)
