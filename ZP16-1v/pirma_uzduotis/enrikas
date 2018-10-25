@@ -1,0 +1,5 @@
+vardas = input("parasykite savo varda")
+print(" vardas: " + str(vardas))
+amzius = input ("parasykite savo amziu:")
+print(" vardas: " + str(amzius))
+print(" sveiki " + str(vardas) + ",jums yra " + str(amzius) + " metų")
